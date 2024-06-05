@@ -1,5 +1,5 @@
 
-# Awesome-Rust-and-Flutter-Projects
+# Awesome Rust-n-Flutter Projects
 A list of all projects that combine Rust and Flutter
 
 Feel free to submit projects that I missed or fork.
