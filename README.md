@@ -7,7 +7,7 @@ Feel free to submit projects that I missed or fork.
 <!--idoc:ignore:start-->
 
  ## Table of Contents (TOC)
-- [Awesome Rust n Flutter](#awesome-rust-and-flutter-projects)
+- [Awesome Rust-n-Flutter](#awesome-rust-n-flutter-projects)
 - [Contents](#contents)
     - [Rust and Flutter Bridges](#rust-and-flutter-bridges)
 
