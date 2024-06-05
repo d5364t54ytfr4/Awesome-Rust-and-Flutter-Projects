@@ -2,6 +2,8 @@
 # Awesome-Rust-and-Flutter-Projects
 A list of all projects that combine Rust and Flutter
 
+Feel free to submit projects that I missed or fork.
+
 <!--idoc:ignore:start-->
 
 - [Awesome Rust n Flutter](#awesome-rust-and-flutter-projects)
