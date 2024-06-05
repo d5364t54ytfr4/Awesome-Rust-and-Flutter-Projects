@@ -14,6 +14,7 @@ Feel free to submit projects that I missed or fork.
 <!--start-->
 <!--idoc:ignore:end-->
 
-## Rust and Flutter Bridges
-* [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.
-* [rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
+### Rust and Flutter Bridges
+*Projects that allow-using/make-it-easy to Rust code/libraries in Flutter*
+* [Flutter_Rust_Bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.
+* [RINF](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
